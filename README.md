@@ -10,8 +10,8 @@ DAP(data analysis platform)是一款采用开源软件开发的开源数据分�
 2.	安装python，以及相关package(建议使用anaconda ,python版本为2.7)其中需要额外下载MySQL与python上mysql的包，安装flask-Bcrypt
 3.	安装node.js
 4.	进入命令窗，cd到.static 目录下使用
-## install node first
-## cd package/static
+-## install node first
+-## cd package/static
 npm install -g babel-cli
 npm install babel-preset-es2015 --save
 npm install babel-preset-react --save
